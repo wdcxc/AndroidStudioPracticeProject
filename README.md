@@ -1,2 +1,2 @@
 # AndroidStudioPracticeProject
-my own android project practice on android studio
+my own android practice project on android studio
