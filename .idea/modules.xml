@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioPracticeProject.iml" filepath="$PROJECT_DIR$/AndroidStudioPracticeProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityandservicelifedemo/activityandservicelifedemo.iml" filepath="$PROJECT_DIR$/activityandservicelifedemo/activityandservicelifedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/foregroundservicedemo/foregroundservicedemo.iml" filepath="$PROJECT_DIR$/foregroundservicedemo/foregroundservicedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
