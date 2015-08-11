@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.demo.wdcxc.activityandservicelifedemo.Main2Activity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="main2act" />
+
+    <Button
+        android:onClick="onClick"
+        android:id="@+id/bt_toact1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="jump to activity1" />
+
+    <Button
+        android:onClick="onClick"
+        android:id="@+id/bt_startser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start service" />
+
+    <Button
+        android:onClick="onClick"
+        android:id="@+id/bt_stopser"
+        android:text="stop service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="onClick"
+        android:id="@+id/bt_bindser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bind bindservice" />
+
+    <Button
+        android:onClick="onClick"
+        android:id="@+id/bt_unbindser"
+        android:text="unbind bindservice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/bt_startbser"
+        android:text="start bindservice"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/bt_stoptbser"
+        android:text="stop bindservice"
+        android:onClick="onClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
