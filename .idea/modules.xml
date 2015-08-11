@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityandservicelifedemo/activityandservicelifedemo.iml" filepath="$PROJECT_DIR$/activityandservicelifedemo/activityandservicelifedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/foregroundservicedemo/foregroundservicedemo.iml" filepath="$PROJECT_DIR$/foregroundservicedemo/foregroundservicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/musicchannaldemo/musicchannaldemo.iml" filepath="$PROJECT_DIR$/musicchannaldemo/musicchannaldemo.iml" />
     </modules>
   </component>

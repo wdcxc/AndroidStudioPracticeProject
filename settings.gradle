@@ -1,1 +1,1 @@
-include ':musicchannaldemo', ':activityandservicelifedemo', ':foregroundservicedemo'
+include ':musicchannaldemo', ':activityandservicelifedemo', ':foregroundservicedemo', ':fragmentdemo'
