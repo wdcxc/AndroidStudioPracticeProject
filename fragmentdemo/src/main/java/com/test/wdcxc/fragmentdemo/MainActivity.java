@@ -16,34 +16,33 @@ public class MainActivity extends AppCompatActivity implements FragmentStatic.On
         setContentView(R.layout.activity_main);
 
         /**
-         * ¶¯Ì¬Ìí¼ÓFragment
+         * åŠ¨æ€æ·»åŠ Fragment
          */
-        //ÊµÀı»¯×Ô¶¨ÒåµÄFragment×ÓÀà
+        //å®ä¾‹åŒ–è‡ªå®šä¹‰çš„Fagmentå­ç±»å¯¹è±¡
         FragmentDynamic fd=new FragmentDynamic();
-        //´«µİ²ÎÊı
+        //ä¼ é€’æ„é€ å‚æ•°
         fd.setArguments(new Bundle());
-        //»ñµÃFragmentManager
+        //è·å–FragmentManagerå¯¹è±¡
         FragmentManager fm=getFragmentManager();
-        //»ñµÃFragmentTransaction
+        //è·å–FragmentTransactionå¯¹è±¡
         FragmentTransaction ft=fm.beginTransaction();
-        //Ìí¼ÓFragment×ÓÀà¶ÔÏó
+        //æ·»åŠ Fragmentå­ç±»å¯¹è±¡åˆ°Activityä¸­
         ft.add(R.id.main_framelayout, fd, "fragment_dynamic");
-        /*//Ìí¼Ó¶¯»­
+        /*//æ·»åŠ åŠ¨ç”»
         ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN);*/
-        //push½øbackstack,ÒÔ±ã¿ÉÒÔ»ØÍËµ½Ç°Ò»¸ö×´Ì¬
+        //æŠŠå½“å‰çŠ¶æ€æ·»åŠ åˆ°backstackä¸­ï¼Œåé¢æ‰å¯ä»¥è¿”å›åˆ°æ“ä½œå‰çŠ¶æ€
         ft.addToBackStack(null);
-        //×îºóÌá½»
+        //æäº¤æ“ä½œ
         ft.commit();
 
-        //Ê¹FragmentTransactionÖĞcommitµÄ²Ù×÷Á¢¼´Ö´ĞĞ£¬±ØĞëÎªUiÏß³Ì²Å¿ÉÖ´ĞĞ´Ë²Ù×÷
+        //FragmentTransactionæäº¤çš„æ“ä½œä¼šç­‰åˆ°UI threadæœ‰ç©ºæ‰æ‰§è¡Œï¼Œå¦‚æœæƒ³è¦ç«‹å³æ‰§è¡Œæäº¤çš„æ“ä½œï¼Œå¯ä»¥ç”¨ä¸‹é¢çš„è¯­å¥
         boolean haspendinginent = fm.executePendingTransactions();
 
         /**
-         * »ñµÃActivityÖĞµÄFragment
+         *  è·å–Activityä¸­çš„Fragmentå¯¹è±¡
          */
         FragmentStatic fs= (FragmentStatic) fm.findFragmentById(R.id.fragment_static);
         fd= (FragmentDynamic) fm.findFragmentByTag("fragment_dynamic");
-
 
     }
 
