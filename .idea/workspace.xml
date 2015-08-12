@@ -22,18 +22,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51dce2e8-fbce-49e9-9ce8-90b8f16fe168" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fragmentdemo/src/main/java/com/test/wdcxc/fragmentdemo/MainActivity.java" afterPath="$PROJECT_DIR$/fragmentdemo/src/main/java/com/test/wdcxc/fragmentdemo/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\android_studio_project\AndroidStudioPracticeProject\activityandservicelifedemo\activityandservicelifedemo.iml" afterPath="$PROJECT_DIR$/activityandservicelifedemo/ActivityAndServiceLifecircleDemo.iml" />
-      <change type="MOVED" beforePath="E:\android_studio_project\AndroidStudioPracticeProject\fragmentdemo\fragmentdemo.iml" afterPath="$PROJECT_DIR$/fragmentdemo/FragmentDemo.iml" />
-    </list>
+    <list default="true" id="51dce2e8-fbce-49e9-9ce8-90b8f16fe168" name="Default" comment="" />
     <ignored path="MyApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
