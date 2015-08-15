@@ -1,1 +1,1 @@
-include ':musicchannaldemo', ':activityandservicelifedemo', ':foregroundservicedemo', ':fragmentdemo', ':notificationdemo'
+include ':musicchannaldemo', ':activityandservicelifedemo', ':foregroundservicedemo', ':fragmentdemo', ':notificationdemo', ':RefreshableListViewDemo'

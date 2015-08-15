@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <LinearLayout
+        android:id="@+id/rlv_h_ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+        <TextView
+            android:id="@+id/rlv_h_title"
+            android:text="下拉可刷新"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/rlv_h_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <ImageView
+
+        android:id="@+id/rlv_h_iv"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/rlv_h_ll"
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="wrap_content"
+        android:visibility="visible"
+        android:layout_height="wrap_content" />
+
+    <ProgressBar
+        android:id="@+id/rlv_h_pb"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/rlv_h_ll"
+        android:visibility="gone"
+        style="@android:style/Widget.ProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

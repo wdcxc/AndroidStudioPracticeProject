@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudioPracticeProject.iml" filepath="$PROJECT_DIR$/AndroidStudioPracticeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefreshableListViewDemo/RefreshableListViewDemo.iml" filepath="$PROJECT_DIR$/RefreshableListViewDemo/RefreshableListViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityandservicelifedemo/activityandservicelifedemo.iml" filepath="$PROJECT_DIR$/activityandservicelifedemo/activityandservicelifedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foregroundservicedemo/foregroundservicedemo.iml" filepath="$PROJECT_DIR$/foregroundservicedemo/foregroundservicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicchannaldemo/musicchannaldemo.iml" filepath="$PROJECT_DIR$/musicchannaldemo/musicchannaldemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/notificationdemo/notificationdemo.iml" filepath="$PROJECT_DIR$/notificationdemo/notificationdemo.iml" />
     </modules>
   </component>

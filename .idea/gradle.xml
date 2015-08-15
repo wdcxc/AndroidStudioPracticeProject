@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/RefreshableListViewDemo" />
             <option value="$PROJECT_DIR$/activityandservicelifedemo" />
             <option value="$PROJECT_DIR$/foregroundservicedemo" />
             <option value="$PROJECT_DIR$/fragmentdemo" />
