@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="E:\android_studio_project\AndroidStudioPracticeProject\RefreshableListViewDemo\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="E:\android_studio_project\AndroidStudioPracticeProject\MyTopBarDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0 rc3"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\RefreshableListViewDemo\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-011fd1a5860673ad22bbb8634ece54b768091973.jar" />
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\MyTopBarDemo\build\intermediates\pre-dexed\debug\classes-e7e3e9956188e3c95f9cdf06a67a8bdc1264dcec.jar" />
+    </item>
+    <item
+        jar="E:\android_studio_project\AndroidStudioPracticeProject\MyTopBarDemo\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\MyTopBarDemo\build\intermediates\pre-dexed\debug\classes-7da2398f4e4c63c9d571dd6c8a83d5494bc703eb.jar" />
     </item>
     <item
         jar="D:\android_sdk_tools\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="23.0.0 rc3"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\RefreshableListViewDemo\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-cab5db543bc8b76cb07c654ce1b33043483d0c95.jar" />
+        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\MyTopBarDemo\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-cab5db543bc8b76cb07c654ce1b33043483d0c95.jar" />
     </item>
     <item
-        jar="E:\android_studio_project\AndroidStudioPracticeProject\RefreshableListViewDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="E:\android_studio_project\AndroidStudioPracticeProject\MyTopBarDemo\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="23.0.0 rc3"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\RefreshableListViewDemo\build\intermediates\pre-dexed\debug\classes-0230ffd311edef372efff60d879f9c51105e5bdf.jar" />
-    </item>
-    <item
-        jar="E:\android_studio_project\AndroidStudioPracticeProject\RefreshableListViewDemo\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0 rc3"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\RefreshableListViewDemo\build\intermediates\pre-dexed\debug\classes-157597c02c462dabab5d0757ca327da9f8131125.jar" />
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\android_studio_project\AndroidStudioPracticeProject\MyTopBarDemo\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-3654fd9e482a7b250aa7dd21103d906e8dd60060.jar" />
     </item>
 
 </items>

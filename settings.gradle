@@ -1,1 +1,1 @@
-include ':musicchannaldemo', ':activityandservicelifedemo', ':foregroundservicedemo', ':fragmentdemo', ':notificationdemo', ':RefreshableListViewDemo'
+include ':musicchannaldemo', ':activityandservicelifedemo', ':foregroundservicedemo', ':fragmentdemo', ':notificationdemo', ':RefreshableListViewDemo', ':SlidingMenuLayoutDemo', ':MyTopBarDemo', ':WebViewDemo', ':WebViewTestDemo', ':WebViewDemo', ':'
